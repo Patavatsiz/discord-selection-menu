@@ -1,6 +1,6 @@
 <h1 align="center">SELECTION MENU</h1>
 
-  <p>There is <a href="https://youtu.be/wo9tZRfp44w" target="_blank">OWNER</a> of the codes. I'm just edited.</p>
+  <p>There is <a href="https://youtu.be/wo9tZRfp44w" target="_blank">OWNER</a> of this codes. I'm just edited.</p>
   
   <p>You only do fill the blanks</p>
   
