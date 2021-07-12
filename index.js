@@ -48,8 +48,8 @@ client.on("message", async(message) => {
 
     let selection = new MessageMenu()
     .setID("selector")
-    //.setMaxValue() maximum value
-    //.setMinValue() minumum value
+    //.setMaxValue() maximum value if you type 1 for both, <user> can only select 1 role or option (probably)
+    //.setMinValue() minumum value if you type 1 for both, <user> can only select 1 role or option (probably)
     .setPlaceholder("Select")
     .addOption(option_1)
     .addOption(option_2)
