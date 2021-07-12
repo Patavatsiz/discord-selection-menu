@@ -48,8 +48,8 @@ client.on("message", async(message) => {
 
     let selection = new MessageMenu()
     .setID("selector")
-    //.setMaxValue()
-    //.setMinValue() 
+    //.setMaxValue() maximum value
+    //.setMinValue() minumum value
     .setPlaceholder("Select")
     .addOption(option_1)
     .addOption(option_2)
