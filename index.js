@@ -23,28 +23,28 @@ client.on("message", async(message) => {
     .setValue("1")
     .setDescription("Your description")
     .setDefault()
-    .setEmoji("❤️") // emoji
+    .setEmoji("") //  you can add emoji next to the label
 
     let option_2 = new MessageMenuOption()
       .setLabel("Your label")
       .setValue("2")
       .setDescription("Your description")
       .setDefault()
-      .setEmoji("❤️") // emoji
+      .setEmoji("") //  you can add emoji next to the label
 
     let option_3 = new MessageMenuOption()
       .setLabel("Your label")
       .setValue("3")
       .setDescription("Your description")
       .setDefault()
-      .setEmoji("❤️") // emoji
+      .setEmoji("") //  you can add emoji next to the label
 
     let option_4 = new MessageMenuOption()
       .setLabel("Your label")
       .setValue("4")
       .setDescription("Your description")
       .setDefault()
-      .setEmoji("❤️") // emoji
+      .setEmoji("") //  you can add emoji next to the label
 
     let selection = new MessageMenu()
     .setID("selector")
