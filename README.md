@@ -1,6 +1,8 @@
 <h1 align="center">SELECTION MENU<h1>
+
+  <p>The <a href="https://youtu.be/wo9tZRfp44w" target="_blank">OWNER</a> of the codes</p>
   
-  You only do fill the blanks
+  <p>You only do fill the blanks</p>
   
 <a href="https://github.com/Patavatsiz/discord-selection-menu/blob/main/index.js" target="_blank">
   <img src="https://cdn.discordapp.com/attachments/853591078875037706/864068867860725810/Capture.JPG"><br>
