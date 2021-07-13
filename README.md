@@ -2,7 +2,7 @@
 
   <p>There is <a href="https://youtu.be/wo9tZRfp44w" target="_blank">OWNER</a> of this codes. I'm just edited.</p>
   
-  <p>You only do fill the blanks</p>
+  <p>You only do fill in the blanks</p>
   
 <a href="https://github.com/Patavatsiz/discord-selection-menu/blob/main/index.js" target="_blank">
   <img src="https://cdn.discordapp.com/attachments/853591078875037706/864068867860725810/Capture.JPG"><br>
